@@ -1,0 +1,30 @@
+{
+  "name": "soatic",
+  "version": "1.0.1",
+  "description": "Object and Number iterators",
+  "main": "soatic.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squikjs/soatic.git"
+  },
+  "keywords": [
+    "soatic",
+    "iter",
+    "iterators",
+    "object",
+    "number"
+  ],
+  "author": "squik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squikjs/soatic/issues"
+  },
+  "homepage": "https://github.com/squikjs/soatic#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
